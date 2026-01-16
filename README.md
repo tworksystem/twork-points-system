@@ -239,8 +239,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Maw Kunn Myat**
 
-- Email: mapoeeiphyu2017.miitinternship@gmail.com
-- GitHub: [@tworksystem](https://github.com/tworksystem)
+- **Primary Email**: mapoeeiphyu2017.miitinternship@gmail.com
+- **Support Email**: support@tworksystem.com
+- **GitHub**: [@mawkunnmyat](https://github.com/mawkunnmyat)
+- **Organization**: T-WORK SYSTEM Co.,Ltd.
 
 ## 🙏 Acknowledgments
 
@@ -250,9 +252,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, please open an issue on the [GitHub repository](https://github.com/tworksystem/twork-points-system/issues).
+For support and inquiries:
+- **GitHub Issues**: [Open an issue](https://github.com/tworksystem/twork-points-system/issues)
+- **Email**: support@tworksystem.com
+- **Developer Contact**: mapoeeiphyu2017.miitinternship@gmail.com
+
+## 🔗 Links
+
+- **Repository**: [https://github.com/tworksystem/twork-points-system](https://github.com/tworksystem/twork-points-system)
+- **Issues**: [https://github.com/tworksystem/twork-points-system/issues](https://github.com/tworksystem/twork-points-system/issues)
+- **Releases**: [https://github.com/tworksystem/twork-points-system/releases](https://github.com/tworksystem/twork-points-system/releases)
 
 ---
 
 **Version**: 1.0.0  
-**Last Updated**: January 16, 2026
+**Last Updated**: January 16, 2026  
+**Maintained by**: Maw Kunn Myat  
+**Organization**: T-WORK SYSTEM Co.,Ltd.
