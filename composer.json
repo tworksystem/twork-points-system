@@ -1,0 +1,18 @@
+{
+  "name": "twork-system/twork-points-system",
+  "description": "Automated tests for the T-Work Points System plugin",
+  "type": "wordpress-plugin",
+  "require-dev": {
+    "phpunit/phpunit": "^9.6",
+    "brain/monkey": "^2.6"
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "TWorkPointsSystem\\Tests\\": "tests/"
+    }
+  },
+  "scripts": {
+    "test": "phpunit"
+  }
+}
+
